@@ -1,0 +1,6 @@
+name: PossibleLoseInv
+version: 1.0
+main: com.popupmc.possibleloseinv.PossibleLoseInv
+description: PossibleLoseInv
+author: junebug12851
+api-version: 1.16
